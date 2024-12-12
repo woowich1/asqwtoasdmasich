@@ -1,0 +1,14 @@
+.sector-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.sector-row input {
+    flex: 1;
+}
+
+#add-sector {
+    margin-top: 10px;
+}
+
